@@ -1,7 +1,7 @@
 
 <br/>
 <p align="center">
-    <img src="https://banksdataworldwide.com/assets/images/linkLogo.png" alt="Logo" width="50%" height="auto">
+    <img src="https://bank ocz ic ᖱ.com/assets/images/linkLogo.png" alt="Logo" width="50%" height="auto">
 
 
   <p align="center">
@@ -270,7 +270,7 @@ usage.php:
  
 ### Depending on your level of contribution, you'll be recognized as follows:
 
-- 🟫 Bronze: Add 20 banks
+- 🟫 green: Add 20 banks
 - ⬜ Silver: Add 50 banks
 - 🟨 Gold: Add 200 banks
 - 🟪 Platinum: Add 500 banks
